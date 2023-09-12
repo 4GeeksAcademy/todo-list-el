@@ -1,4 +1,25 @@
+body{
+    margin-top: 100px;
+}
 
+ul{
+    padding: 0;
+}
+
+
+ul li{
+    border: 1px solid grey;
+    list-style-type: none;
+    padding: 5px;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    border: 1px solid grey; width: 100%;
+}
 /* 
 
     You can write your own styles here...

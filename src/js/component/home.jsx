@@ -103,6 +103,7 @@ const Home = () => {
                     <div className="col-12 col-md-6">
                         <h2 className="text-center">Todo list</h2>
                         <input
+                            className="text-center"
                             type="text"
                             placeholder="Ingresa las tareas"
                             name="label"
